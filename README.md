@@ -40,7 +40,7 @@ If you want to run it under windows, please paid attention to also change the ch
 
 ### Notes
 
-If you want to know more about the project research and history, chek the "Project_report" file.
+If you want to know more about the technical choices, research and project history, chek the "Project_report" file.
 
 ### License
 
